@@ -9,7 +9,7 @@
             "value": "TOMCAT|8.5-jre8"
         },
         "hostingPlanName": {
-            "value": "Table2ehpdevopswebapp1114b"
+            "value": "Table2ehpdevopsappplan1114b"  
         },
         "hostingEnvironment": {
             "value": ""
@@ -24,7 +24,7 @@
             "value": "3"
         },
         "serverFarmResourceGroup": {
-            "value": "Table2ehpdevopswebapp1114b"
+            "value": "Table2ehpdevopsrg1114b"
         },
         "skuCode": {
             "value": "P1v2"
