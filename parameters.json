@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "table2ehpdevopswebapp1114c"
+            "value": "Table2ehpdevopswebapp1114b"
         },
         "linuxFxVersion": {
             "value": "TOMCAT|8.5-jre8"
         },
         "hostingPlanName": {
-            "value": "table2ehpdevopswebapp1114c"
+            "value": "Table2ehpdevopswebapp1114b"
         },
         "hostingEnvironment": {
             "value": ""
@@ -24,7 +24,7 @@
             "value": "3"
         },
         "serverFarmResourceGroup": {
-            "value": "table2ehpdevopswebapp1114c"
+            "value": "Table2ehpdevopswebapp1114b"
         },
         "skuCode": {
             "value": "P1v2"
